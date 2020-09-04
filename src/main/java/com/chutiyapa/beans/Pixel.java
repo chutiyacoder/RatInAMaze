@@ -1,4 +1,4 @@
-package com.cabsec.beans;
+package com.chutiyapa.beans;
 
 public class Pixel {
 
